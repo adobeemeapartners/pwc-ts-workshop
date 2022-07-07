@@ -29,13 +29,13 @@ City Signal (Telco)
 
 ## Agenda
 
-9.15 Intro to the Workshop
-9.30 RTCDP Overview
-10.00 Demo Customer Pitch
-10.45 Coffee Break
-11.00 Environment Walkthrough + Q&A (Demo Web and Mobile, AEC, Links and Assets)
-12.00 Lunch
-13.00 Breakouts
-15.00 Presentations
-16.15 Summary and Key Takeaway
-16.30 End
+- 9.15 Intro to the Workshop
+- 9.30 RTCDP Overview
+- 10.00 Demo Customer Pitch
+- 10.45 Coffee Break
+- 11.00 Environment Walkthrough + Q&A (Demo Web and Mobile, AEC, Links and Assets)
+- 12.00 Lunch
+- 13.00 Breakouts
+- 15.00 Presentations
+- 16.15 Summary and Key Takeaway
+- 16.30 Outro
