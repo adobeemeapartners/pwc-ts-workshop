@@ -21,4 +21,4 @@ City Signal (Telco)
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Links & Assets
-* solutionpartner.adobe.com
+* [http://solutionpartner.adobe.com](https://solutionpartners.adobe.com/)
