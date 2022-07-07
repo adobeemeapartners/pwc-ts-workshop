@@ -8,7 +8,7 @@ Lorem ipsum.
 Luma (Retail)
 - https://builder.adobedemo.com/run/sevcik-R25P (web)
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-8I2N (mobile)
-- Docs TBA
+- https://docs.adobedemo.com/projects/public-projects/luma/web
 
 Carvelo (Automotive)
 - https://builder.adobedemo.com/run/sevcik-JAZ4 (web)
