@@ -1,6 +1,7 @@
 # pwc-ts-workshop
 
 ## Workshop
+Lorem ipsum.
 
 ## Environments
 
@@ -14,9 +15,10 @@ Carvelo (Automotive)
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-LX7J (mobile)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
-Telco
+City Signal (Telco)
 - https://builder.adobedemo.com/run/sevcik-SEVG (web)
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-2UBO (mobile)
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
-## Assets
+## Links & Assets
+* solutionpartner.adobe.com
