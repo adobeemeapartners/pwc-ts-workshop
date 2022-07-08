@@ -14,7 +14,7 @@ Learn and practice how to deliver a customer pitch (including a live demo) that 
 
 ## Breakouts
 
-### Scenario 0: SecurFinance (FSI)
+### Scenario 0: SecurFinance (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
 
 Challenges:
 * On-boarding can be complex and form intensive for loans or investments
