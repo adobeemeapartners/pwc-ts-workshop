@@ -2,16 +2,15 @@
 
 ## Goal
 
-
 ## Demo Criteria
 
-## Environments
+## Breakouts
 
 ### Scenario 1: Luma (Retail)
 
 Challenges:
-*
-*
+* Unable to stitch known and anonymous data across channels & devices to create single view of customer in real-time
+* Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
 - https://builder.adobedemo.com/run/sevcik-R25P (web)
@@ -21,8 +20,7 @@ Environments:
 ### Scenario 2: Carvelo (Automotive)
 
 Challenges:
-*
-*
+* Inability to leverage key external data sources (major weather patterns) related to insured assets for proactive customer engagement
 
 
 Environments:
