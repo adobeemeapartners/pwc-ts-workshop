@@ -14,6 +14,8 @@ Based on the given scenario, you will need to do the following:
 2. Update the POV deck (pptx will be provided) to create a presentation and pitch it to the customer
 3. Use the demo assets provided, customize them and show the solution to the customer
 
+The whole presentation shouldn't take longer than 15mins and will be followed by a short 5mins Q&A.
+
 ## Presentation Criteria
 
 * Solution Design
