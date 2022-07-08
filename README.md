@@ -6,15 +6,13 @@ Learn and practice how to deliver a customer pitch (including a live demo) that 
 
 ## How are you going to this
 
-To make a discovery with the client, you will meet with the client (CMO, Audience Programme Manager, Director of Privacy, Director of Operations) 
+To make a discovery with the client, you will meet with the client representatives (incl. CMO, Audience Programme Manager, Director of Privacy, Director of Operations). 
 
-Based on the scenario, you will need to do the following: 
+Based on the given scenario, you will need to do the following: 
 
-1. Write discovery questions to the client 
-
-2. Use Personalisation at Scale POV to create a presentation and present it back to us 
-
-3. Use the demo assets provided and present the demo to the client
+1. Write discovery questions given the customer's current challenges
+2. Use Personalisation at Scale POV deck (pptx will be provided) to create a presentation and pitch it to the customer
+3. Use the demo assets provided, customize them and the solution to the customer
 
 ## Presentation Criteria
 
