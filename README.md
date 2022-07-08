@@ -49,7 +49,8 @@ Environments:
 ### Scenario 2: Carvelo (Automotive)
 
 Challenges:
-* Inability to leverage key external data sources (major weather patterns) related to insured assets for proactive customer engagement
+* Experiences only personalized to a subset of segments & channels (e.g. online but not instore) and lack insights that scale across audiences
+* Inability to leverage key data sources (e.g. Call Centre) for proactive customer engagement
 
 
 Environments:
