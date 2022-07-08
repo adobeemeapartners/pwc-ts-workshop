@@ -4,7 +4,7 @@
 
 Learn and practice how to deliver a customer pitch (including a live demo) that shows how Adobe Real-Time Customer Data Platform solves business challenges in various industries. 
 
-## What is ahead of you?
+## Workshop Context
 
 To make a discovery with the client, you will meet with the client representatives (incl. CMO, Audience Programme Manager, Director of Privacy, Director of Operations). 
 
