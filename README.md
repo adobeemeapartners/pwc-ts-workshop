@@ -14,6 +14,15 @@ Learn and practice how to deliver a customer pitch (including a live demo) that 
 
 ## Breakouts
 
+### Scenario 0: SecurFinance (FSI)
+
+Challenges:
+* On-boarding can be complex and form intensive for loans or investments
+* Communications are static and doesn’t adjust to changes in customer context
+
+Environments:
+- not available
+
 ### Scenario 1: Luma (Retail)
 
 Challenges:
@@ -51,9 +60,13 @@ Environments:
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Links & Assets
-* [[http://solutionpartner.adobe.com](https://solutionpartners.adobe.com/)](https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp.html)
-* 
+* https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp.html
+* https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/accreditation/technical_sales_program.html 
+* https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/overview.html?lang=en
 
+## Tips and Tricks
+* For every new demo run always use new anonymous window or reinstall the mobile app
+* When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
 
 ## Agenda
 
