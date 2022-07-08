@@ -4,6 +4,18 @@
 
 Learn and practice how to deliver a customer pitch (including a live demo) that shows how Adobe Real-Time Customer Data Platform solves business challenges in various industries. 
 
+## How are you going to this
+
+To make a discovery with the client, you will meet with the client (CMO, Audience Programme Manager, Director of Privacy, Director of Operations) 
+
+Based on the scenario, you will need to do the following: 
+
+1. Write discovery questions to the client 
+
+2. Use Personalisation at Scale POV to create a presentation and present it back to us 
+
+3. Use the demo assets provided and present the demo to the client
+
 ## Demo Criteria
 
 * Solution Design
