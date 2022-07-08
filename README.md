@@ -16,10 +16,10 @@ Based on the scenario, you will need to do the following:
 
 3. Use the demo assets provided and present the demo to the client
 
-## Demo Criteria
+## Presentation Criteria
 
 * Solution Design
-* Technical Implementation
+* Demo
 * Applicability
 * Innovation/Creativity
 * Presentation and Completeness
