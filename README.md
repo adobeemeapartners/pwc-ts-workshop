@@ -12,7 +12,7 @@ Based on the given scenario, you will need to do the following:
 
 1. Write discovery questions given the customer's current challenges
 2. Update the POV deck (pptx will be provided) to create a presentation and pitch it to the customer
-3. Use the demo assets provided, customize them and the solution to the customer
+3. Use the demo assets provided, customize them and show the solution to the customer
 
 ## Presentation Criteria
 
