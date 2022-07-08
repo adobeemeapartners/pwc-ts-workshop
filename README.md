@@ -7,17 +7,39 @@
 
 ## Environments
 
-Luma (Retail)
+### Scenario 1: Luma (Retail)
+
+Challenges:
+*
+*
+
+Environments:
 - https://builder.adobedemo.com/run/sevcik-R25P (web)
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-8I2N (mobile)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
-Carvelo (Automotive)
+### Scenario 2: Carvelo (Automotive)
+
+Challenges:
+*
+*
+
+
+Environments:
+
 - https://builder.adobedemo.com/run/sevcik-JAZ4 (web)
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-LX7J (mobile)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
-City Signal (Telco)
+### Scenario 3: City Signal (Telco)
+
+Challenges:
+
+* Call center representatives have limited visibility to inbound caller's previous interactions
+* Offers and recommendations are often scripted, not considering the customer context
+
+Environments:
+
 - https://builder.adobedemo.com/run/sevcik-SEVG (web)
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-2UBO (mobile)
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
