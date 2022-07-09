@@ -95,5 +95,5 @@ Environments:
 - 16.30 Outro
 
 ## Contacts
-Radim Sevcik, sevcik@adobe.com
-Nishant Pithia, pithia@adobe.com
+- Radim Sevcik, sevcik@adobe.com
+- Nishant Pithia, pithia@adobe.com
