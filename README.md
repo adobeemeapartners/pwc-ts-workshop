@@ -78,6 +78,10 @@ Environments:
 * Sandbox Name: PwC TS Workshop (VA7)
 * Data Collection Properties: _search for your scenario Brand Name (e.g., Luma)_
 
+## Mobile App
+
+![image](https://user-images.githubusercontent.com/61875393/178666704-d7d311a3-e4bb-4cc5-8378-d484bc1dd65e.png)
+
 
 
 ## Links & Assets
