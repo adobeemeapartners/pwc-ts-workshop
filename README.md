@@ -83,6 +83,7 @@ Environments:
 ## Mobile App
 
 ![image](https://user-images.githubusercontent.com/61875393/178666704-d7d311a3-e4bb-4cc5-8378-d484bc1dd65e.png)
+
 https://docs.adobedemo.com/dx-demo-mobile-app/overview/first-installation-+-first-launch
 
 
