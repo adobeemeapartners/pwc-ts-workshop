@@ -1,4 +1,6 @@
 # PWC Summer School 2022 - Adobe Tech Sales Workshop (RTCDP)
+![image](https://user-images.githubusercontent.com/61875393/178667086-afca1072-eea2-4114-a51b-62552013763a.png)
+
 
 ## Goal
 
