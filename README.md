@@ -80,6 +80,7 @@ Environments:
 ## Tips and Tricks
 * For every new demo run always use new anonymous (incognito) window or reset the mobile app
 * When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
+* If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
 
 ## Agenda
 
