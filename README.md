@@ -72,6 +72,14 @@ Environments:
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-2UBO (mobile)
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
+## Experience Platform
+
+* ISM Org Name: AEP Partner Shared Training Sandbox
+* Sandbox Name: PwC TS Workshop (VA7)
+* Data Collection Properties: _search for your scenario Brand Name (e.g., Luma)_
+
+
+
 ## Links & Assets
 * https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp.html
 * https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/accreditation/technical_sales_program.html 
